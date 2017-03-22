@@ -67,5 +67,5 @@ gem 'rails_autolink'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'puma'
 gem 'rails_12factor'
