@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+ruby '~> 2.3.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.6'
@@ -67,3 +67,5 @@ gem 'rails_autolink'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'rails_12factor'
